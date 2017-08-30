@@ -1,0 +1,81 @@
+#general{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+	}
+
+.encabezado{	
+	background-color:#FCDB00;
+    width:100%;
+    border:0px;
+    margin-top: 0px;
+    border-top-width: 0px;
+    height: 50px;
+    text-align:right;
+    }
+
+.ciudad{
+	width: 297px;
+    height: 30px;
+	font-size:1.2em;
+	font-style:italic;
+	padding-top: 10px;
+    padding-left: 10px;
+    float:left;
+	}
+
+.loguin{
+	width:540px;
+	float: right;
+    padding-top: 10px;
+	}
+ 
+.contenido {
+    background-color:black;
+    width:100%;
+    height:auto;
+    margin: auto;
+    text-align:center;
+    position:relative;
+	}
+
+.texto_sobre_img {
+    position: absolute;
+    font-size:600%;
+    margin: auto;
+    top: 0;
+    left:0;
+    right:0;
+    bottom:0;
+    color:#fff;
+    height:100px;
+    text-align:center; 
+	font-family: cursive;
+	letter-spacing: 1;
+	text-shadow: -3px -3px 3px #0000DF, 3px -3px 3px #0000DF, -3px 3px 3px #0000DF, 3px 3px 3px #0000DF;
+	}
+
+.btn {
+	width:266.5px;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+
+.inicio {background-color: #4CAF50;}
+.inicio:hover {background-color: #46a049;}
+
+.novedades {background-color: #2196F3;}
+.novedades:hover {background: #0b7dda;}
+
+.servicios {background-color: #ff9800;}
+.servicios:hover {background: #e68a00;}
+
+.sobrenosotros {background-color: #f44336;} 
+.sobrenosotros:hover {background: #da190b;}
+
+.contactenos {background-color: gray;}
+.contactenos:hover {background: #ddd;}
+
+.opinion{float:right;}
